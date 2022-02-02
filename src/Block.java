@@ -22,4 +22,7 @@ public class Block {
         return transaction;
     }
 
+    public int getBlockHash() {
+        return blockHash;
+    }
 }
